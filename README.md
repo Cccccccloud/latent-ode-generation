@@ -83,8 +83,6 @@ All the data generated during the code run is [here](https://drive.google.com/dr
 
 ## References
 
-If you find this repository useful, please consider citing the original TabSyn paper:
-
 ```bibtex
 @inproceedings{tabsyn2024,
   title={Mixed-Type Tabular Data Synthesis with Score-based Diffusion in Latent Space},
