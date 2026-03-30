@@ -19,6 +19,7 @@ Our customized code files are integrated with the TabSyn framework:
 
 ### 1. Data Preprocessing
 First, run the data preprocessing scripts to prepare the dataset. The processed data will be saved in the `data/` directory.
+Data scourse: SmartSeq2 in [Neftel et al. 2019](https://www.weizmann.ac.il/sites/3CA/brain)
 
 ```bash
 python data_preprocessing.py
