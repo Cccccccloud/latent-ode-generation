@@ -22,7 +22,7 @@ First, run the data preprocessing scripts to prepare the dataset. The processed 
 
 ```bash
 python data_preprocessing.py
-python process_dataset.py
+python process_dataset.py --dataname neftel_smartseq
 ```
 
 ### 2. Baseline: TabSyn Pipeline 
