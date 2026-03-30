@@ -40,7 +40,7 @@ python main.py --dataname neftel_smartseq --method tabsyn --mode sample --save_p
 ```
 
 ### 3. Our Model: Latent ODE Pipeline
-Train our custom Latent ODE RNN model and generate the corresponding data. The final output will be `ODE_Generated_Cells_Fixed.csv`.
+Train our custom Latent ODE RNN model and generate the corresponding data. The final output will be `ODE_Generated_Cells.csv`.
 
 ```bash
 # Step 3.1: Train our Model
