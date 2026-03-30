@@ -1,7 +1,7 @@
 
 # Dynamic Single-Cell Trajectory Generation:Augmenting TabSyn VAE with Latent ODE-RNN and Gaussian Processes
 
-This repository contains the official implementation of our Latent ODE RNN model for single-cell/tabular data generation, along with a comprehensive comparison against the [TabSyn](https://github.com/ucas-hengrui/TabSyn) baseline.
+This repository contains the official implementation of our Latent ODE RNN model for single-cell/tabular data generation, along with a comprehensive comparison against the [TabSyn](https://github.com/amazon-science/tabsyn) baseline.
 
 ## Repository Structure
 
