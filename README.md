@@ -81,7 +81,7 @@ All the data generated during the code run is [here](https://drive.google.com/dr
 
 ---
 
-## 📖 References
+## References
 
 If you find this repository useful, please consider citing the original TabSyn paper:
 
